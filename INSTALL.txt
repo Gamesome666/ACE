@@ -1,0 +1,77 @@
+========================================
+ACE Electrical Limited - Vue 3 网站
+安装和运行指南
+========================================
+
+【第一步】安装依赖
+------------------
+在项目根目录打开命令行，运行：
+
+    npm install
+
+等待安装完成...
+
+
+【第二步】启动开发服务器
+------------------------
+运行以下命令：
+
+    npm run dev
+
+看到以下信息表示成功：
+    ➜  Local:   http://localhost:3000/
+
+
+【第三步】访问网站
+------------------
+在浏览器中打开：http://localhost:3000
+
+
+【构建生产版本】
+----------------
+如需构建生产版本，运行：
+
+    npm run build
+
+构建完成后，文件在 dist 目录
+
+
+【项目包含的模块】
+------------------
+✓ 头部导航（Header）
+✓ 轮播图（Banner）
+✓ 优势展示（Advantage）
+✓ 产品展示（Products）- 6个产品
+✓ 应用案例（Application Case）- 7个案例
+✓ 关于我们（About Us）
+✓ 新闻资讯（News）
+✓ 留言板块（Message Us）
+  - 企业文化（Corporate Culture）
+  - 联系我们（Contact Us）
+✓ 页脚（Footer）
+✓ 社交媒体链接
+✓ 留言表单
+✓ 返回顶部
+
+
+【联系方式】
+------------
+Email: info@ace-hkltd.com
+Tel: +852 6711 3894
+WhatsApp: +852 6711 3894
+Website: www.ace-hkltd.com
+
+Instagram: https://www.instagram.com/cjhronald
+Facebook: https://www.facebook.com/share/1BXR4LC6Zy/
+YouTube: https://youtube.com/@aceelectricallimited
+
+
+【技术支持】
+------------
+详细文档请查看：
+- README-VUE.md（完整说明）
+- QUICKSTART.md（快速开始）
+
+
+Copyright © 2008-2025 ACE Electrical Limited
+========================================
