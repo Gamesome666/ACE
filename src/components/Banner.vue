@@ -30,13 +30,13 @@ export default {
     return {
       currentSlide: 0,
       banners: [
-        '/images/banner/image.png',
-        '/images/banner/image copy.png',
-        '/images/banner/image copy 2.png',
-        '/images/banner/image copy 3.png',
-        '/images/banner/image copy 4.png',
-        '/images/banner/image copy 5.png',
-        '/images/banner/image copy 6.png'
+        './public/images/banner/image.png',
+        '/public/images/banner/image copy.png',
+        '/public/images/banner/image copy 2.png',
+        '/public/images/banner/image copy 3.png',
+        '/public/images/banner/image copy 4.png',
+        '/public/images/banner/image copy 5.png',
+        '/public/images/banner/image copy 6.png'
       ],
       timer: null
     }

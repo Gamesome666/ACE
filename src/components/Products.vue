@@ -203,7 +203,7 @@ export default {
         },
         {
           name: 'ACE-Q31 4G SMART BIRD FEEDER',
-          image: '/第一类产品images/q31.png',
+          image: '/images/imagesDisplay/Smart Pet Feeder/image copy 6.png',
           shortDesc: '4G connectivity (US/Europe versions), AI bird recognition, solar charging, IP65 waterproof.',
           features: [
             'US 4G version/Europe 4G version (Optional)',
@@ -228,7 +228,7 @@ export default {
         },
         {
           name: 'ACE-Q39 SMART BIRD FEEDER',
-          image: '/第一类产品images/q39.png',
+          image: '/images/imagesDisplay/Smart Pet Feeder/image copy 7.png',
           shortDesc: '1.5L capacity, AI bird recognition, solar charging, fruit fork and honey jar optional.',
           features: [
             'PIR motion sensor with 110°detection angle for accurate bird detection',
@@ -252,7 +252,7 @@ export default {
         },
         {
           name: 'ACE040 Pet Button Feeder',
-          image: '/第一类产品images/ACE040 Pet Button Feeder.png',
+          image: '/images/imagesDisplay/Smart Pet Feeder/image copy 8.png',
           shortDesc: '4L capacity, button control, dual power supply, timed feeding, moisture-proof design.',
           features: [
             'Color: White, Black',
@@ -270,7 +270,7 @@ export default {
         },
         {
           name: 'ACE040 Pet WiFi Feeder',
-          image: '/第一类产品images/ACE040 Pet WiFi Feeder.png',
+          image: '/images/imagesDisplay/Smart Pet Feeder/image copy 9.png',
           shortDesc: '4L capacity, WiFi control, APP feeding, voice recording, moisture-proof design.',
           features: [
             'Color: White, Black',
